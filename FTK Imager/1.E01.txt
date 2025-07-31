@@ -1,0 +1,49 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: 1
+Evidence Number:  
+Unique Description: 
+Examiner:  fairuz
+Notes:  
+
+--------------------------------------------------------------
+
+Information for D:\TA\FTK\1:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 8.388.608
+[Physical Drive Information]
+ Removable drive: False
+ Source data size: 4096 MB
+ Sector count:    8388608
+[Computed Hashes]
+ MD5 checksum:    3ba16a0beda5de6bbe74f5a4fd7d374b
+ SHA1 checksum:   e50697826df0dd486f3aa2adeb579cc092ee9756
+
+Image Information:
+ Acquisition started:   Sun Jun 22 21:02:17 2025
+ Acquisition finished:  Sun Jun 22 21:03:02 2025
+ Segment list:
+  D:\TA\FTK\1.E01
+ COMPUTED HASH :  3ba16a0beda5de6bbe74f5a4fd7d374b
+ COMPUTED HASH :  e50697826df0dd486f3aa2adeb579cc092ee9756
+
+Image Verification Results:
+ Verification started:  Sun Jun 22 21:03:02 2025
+ Verification finished: Sun Jun 22 21:03:12 2025
+ MD5 checksum:    3ba16a0beda5de6bbe74f5a4fd7d374b : verified
+ SHA1 checksum:   e50697826df0dd486f3aa2adeb579cc092ee9756 : verified
+ COMPUTED HASH :  3ba16a0beda5de6bbe74f5a4fd7d374b
+ COMPUTED HASH :  e50697826df0dd486f3aa2adeb579cc092ee9756
+
+Image Verification Results:
+ Verification started:  Wed Jul 16 11:04:16 2025
+ Verification finished: Wed Jul 16 11:04:25 2025
+ MD5 checksum:    3ba16a0beda5de6bbe74f5a4fd7d374b : verified
+ SHA1 checksum:   e50697826df0dd486f3aa2adeb579cc092ee9756 : verified
